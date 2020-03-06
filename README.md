@@ -6,3 +6,10 @@
 2. Run temperature logger
 3. Run picamera 
 3. Access webapp
+
+
+Requirements:
+
+Rpi.GPIO
+Flask
+Flask_bootstrap
