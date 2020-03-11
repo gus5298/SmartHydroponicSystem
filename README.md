@@ -13,3 +13,6 @@ Requirements:
 Rpi.GPIO
 Flask
 Flask_bootstrap
+Adafruit_DHT
+apscheduler
+
