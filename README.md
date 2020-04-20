@@ -4,8 +4,8 @@
 
 1. Run server
 2. Run temperature logger
-3. Run picamera 
-3. Access webapp
+3. Make sure cron is configured
+4. Access webapp
 
 
 Requirements:
